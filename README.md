@@ -8,3 +8,6 @@ Clone, edit test.php and continue your work
 
 # Version 6.0.5
 Drained from https://github.com/PHPMailer/PHPMailer
+
+# Usage
+Clone, modify test.php and using the console 'php test.php'
