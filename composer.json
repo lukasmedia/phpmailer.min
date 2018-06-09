@@ -1,0 +1,13 @@
+{
+    "name": "lukasmedia/phpmailer.min",
+    "description": "Minimal library of the classic email sending library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronald",
+            "email": "php@lukasmedia.nl"
+        }
+    ],
+    "require": {}
+}
