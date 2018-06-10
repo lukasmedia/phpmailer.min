@@ -25,6 +25,9 @@
  * @author  Chris Ryan
  * @author  Marcus Bointon <phpmailer@synchromedia.co.uk>
  */
+
+namespace Lukasmedia\PHPMailer;
+
 class SMTP
 {
     /**

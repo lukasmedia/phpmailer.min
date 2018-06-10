@@ -9,5 +9,8 @@
             "email": "php@lukasmedia.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"Lukasmedia\\PHPMailer\\": "src/"}
+    },
 }
